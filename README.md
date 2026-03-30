@@ -5,7 +5,7 @@
 **Course:** Open Source Software — CSE0002
 **Chosen Software:** Git (Version Control System)
 **License:** GNU General Public License v2 (GPL v2)
-**Repository:** 
+**Repository:** https://github.com/Shivam-270306/oss-audit-24BCE10490-main
 ---
 
 ## About This Project
@@ -51,7 +51,7 @@ git config --global user.email "your.email@example.com"
 ### 4. Clone & Execution
 ```bash
 # Clone the repository
-git clone 
+git clone https://github.com/Shivam-270306/oss-audit-24BCE10490-main
 cd oss-audit-24BCG10490
 
 # Make all scripts executable (REQUIRED)
